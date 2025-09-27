@@ -12,7 +12,7 @@ Here you’ll find projects, cheatsheets, and learnings around **data and cloud 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
