@@ -3,8 +3,8 @@
 🎓 Industrial Engineer | 📊 Logistics Controller at Panamar Bakery  
 💻 Master's student in Big Data & Cloud Computing at EDEM  
 
-I’m passionate about data analytics, process optimization, and automation with **Python, SQL, Power BI, and VBA**.  
-Here you’ll find projects, cheatsheets, and learnings around **data and cloud technologies**.  
+I’m passionate about data analytics, process optimization, and automation with Python, SQL, Power BI, and VBA.  
+Here you’ll find projects, cheatsheets, and learnings around data and cloud technologies.  
 
 ---
 
