@@ -16,6 +16,10 @@ Here you’ll find personal projects about data and cloud technologies.
 
 ---
 
+## 📜 Projects
+
+---
+
 ## 📫 Contact
 
 **Email:** [alvarogimenezc24@gmail.com](mailto:alvarogimenezc24@gmail.com)  
