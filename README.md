@@ -19,6 +19,7 @@ Here you’ll find personal projects about data and cloud technologies.
 ## 📫 Contact
 
 **Email:** [alvarogimenezc24@gmail.com](mailto:alvarogimenezc24@gmail.com)  
+**Email:** (www.linkedin.com/in/alvarogimenezc)  
 
 <p align="left">
   <a href="mailto:alvarogimenezc24@gmail.com">
