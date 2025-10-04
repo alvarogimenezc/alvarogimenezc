@@ -18,7 +18,7 @@ Here you’ll find personal projects about data and cloud technologies.
 
 ## 📜 Projects
 
----
+--
 
 ## 📫 Contact
 
