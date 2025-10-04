@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Álvaro  
+# 👋 Hi there, I'm Álvaro  
 
 🎓 Industrial Engineer | 📊 Logistics Controller at Panamar Bakery Group
 💻 Master's student in Big Data & Cloud Computing at EDEM  
