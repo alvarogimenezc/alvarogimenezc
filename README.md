@@ -19,13 +19,5 @@ Here you’ll find personal projects about data and cloud technologies.
 ## 📫 Contact
 
 **Email:** [alvarogimenezc24@gmail.com](mailto:alvarogimenezc24@gmail.com)  
-**Email:** www.linkedin.com/in/alvarogimenezc
+**Linkedin:** www.linkedin.com/in/alvarogimenezc
 
-<p align="left">
-  <a href="mailto:alvarogimenezc24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/alvarogimenezc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
