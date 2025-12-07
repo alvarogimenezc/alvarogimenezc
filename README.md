@@ -18,6 +18,7 @@ Here you’ll find a collection of personal projects and practical tools designe
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-0096D6?style=for-the-badge&logo=apache-nifi&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
