@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Álvaro  
 
-🎓 Industrial Engineer | 📊 Logistics Controller at Panamar Bakery Group
+🎓 Industrial Engineer - UPV | 📊 Logistics Controller at Panamar Bakery Group
 💻 Master's student in Big Data & Cloud Computing at EDEM  
 
 I'm passionate about logistics, supply chain optimization, and applying data-driven solutions to solve real-world problems.
